@@ -49,7 +49,6 @@ SpeakingExaminer/
 ## ⚙️ Setup Instructions (Local)
 
 ### 1. Clone repository
-```bash
 git clone https://github.com/KhangNguyen08/RayMentor.git
 cd RayMentor
 
