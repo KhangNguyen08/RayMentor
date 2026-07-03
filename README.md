@@ -41,9 +41,7 @@ https://raymentor-ituresrurvixjl9rwmovzt.streamlit.app/
 
 |- requirements.txt      # Python dependencies
 
-|- assets/
-
-  |- Ray_Mentor.png    # UI assets/logo
+|- assets/Ray_Mentor.png    # UI assets/logo
 
 |- .gitignore
 
