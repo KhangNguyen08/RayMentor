@@ -43,7 +43,7 @@ https://raymentor-ituresrurvixjl9rwmovzt.streamlit.app/
 
 |- assets/
 
-    |- Ray_Mentor.png    # UI assets/logo
+  |- Ray_Mentor.png    # UI assets/logo
 
 |- .gitignore
 
