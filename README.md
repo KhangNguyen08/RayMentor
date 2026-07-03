@@ -36,11 +36,17 @@ https://raymentor-ituresrurvixjl9rwmovzt.streamlit.app/
 
 ## 📁 Project Structure
 |- app.py                # Main Streamlit application
+
 |- system_prompt.txt     # AI examiner prompt template
+
 |- requirements.txt      # Python dependencies
+
 |- assets/
+
     |- Ray_Mentor.png    # UI assets/logo
+
 |- .gitignore
+
 |- README.md
 
 ---
