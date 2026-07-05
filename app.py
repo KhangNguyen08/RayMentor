@@ -110,7 +110,7 @@ with open("system_prompt.txt", "r", encoding="utf-8") as f:
 MODEL_ROUTER = {
     "Part 1": "gemini-2.5-flash",
     "Part 2": "gemini-2.5-flash",
-    "Part 3": "gemini-2.5-pro",
+    "Part 3": "gemini-2.5-flash",
     "Part 4": "gemini-2.5-flash",
 }   
 
